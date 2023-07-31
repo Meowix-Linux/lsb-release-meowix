@@ -13,6 +13,7 @@ url="https://refspecs.linuxfoundation.org/lsb.shtml"
 license=('GPL')
 depends=('sh')
 makedepends=('git')
+provides=('lsb-release')
 conflicts=('lsb-release')
 source=("git+https://github.com/LinuxStandardBase/lsb-samples.git#commit=$_commit"
         'lsb-release'
