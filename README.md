@@ -2,7 +2,7 @@
 <img src="https://github.com/Meowix-Linux/Meowix-ISO/blob/main/assets/meowix.svg?raw=true" width=25% height=25%>
 </p>
 
-<h1 align="center">Meowix Linux Package Repository</h1>
+<h1 align="center">lsb-release-meowix</h1>
 
 <p align="center">Source files for the Meowix-Repo package `lsb-release-meowix`</p>
 
