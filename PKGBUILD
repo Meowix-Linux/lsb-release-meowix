@@ -3,7 +3,7 @@
 # Contributor: Malte Rabenseifner <malte@zearan.de>
 # Contributor: John Gerritse <reaphsharc@gmail.com>
 
-pkgname=lsb-release
+pkgname=lsb-release-meowix
 pkgver=2.0.r53.a86f885
 _commit=a86f885597a91cd41837d706bf6a08d4c239a54b
 pkgrel=1
@@ -13,6 +13,7 @@ url="https://refspecs.linuxfoundation.org/lsb.shtml"
 license=('GPL')
 depends=('sh')
 makedepends=('git')
+conflicts=('lsb-release')
 source=("git+https://github.com/LinuxStandardBase/lsb-samples.git#commit=$_commit"
         'lsb-release'
         'lsb_release_description.patch'
