@@ -2,9 +2,9 @@
 <img src="https://github.com/Meowix-Linux/Meowix-ISO/blob/main/assets/meowix.svg?raw=true" width=25% height=25%>
 </p>
 
-<h1 align="center">lsb-release-meowix</h1>
+<h1 align="center">lsb-release-meowix PKGBUILD</h1>
 
-<p align="center">Source files for the Meowix-Repo package `lsb-release-meowix`</p>
+<p align="center">Files used to build the Meowix-Repo package `lsb-release-meowix`</p>
 
 <p align="center">
 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img alt="GPLv3 License" src="https://img.shields.io/badge/License-GPLv3-red.svg"></a>
